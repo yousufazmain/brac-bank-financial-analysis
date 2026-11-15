@@ -11,7 +11,6 @@ The objective is to identify historical financial trends, assess profitability, 
 ## Project Files
 
 - **Excel Workbook:** `BRAC Bank Financial Analysis - 2021-2025.xlsx`
-- **Research Report (DOCX):** `BRAC Bank Financial Performance Analysis - 2021-2025.docx`
 - **Research Report (PDF):** `BRAC Bank Financial Performance Analysis - 2021-2025.pdf`
 
 ## Areas of Analysis
